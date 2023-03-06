@@ -1,1 +1,1 @@
-Creating a decision tree model from scratch for predictions on the 'heart.csv' dataset.
+Trained and plotted a decision tree model for predictions on the 'heart.csv' dataset.
